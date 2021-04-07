@@ -22,4 +22,16 @@ The pandemic has caused a lot of effects. Hence the information given here would
 - MCQs 
 - Viva question 
 - Suprise Test questions 
-- Cycle test Questions from 
+- Cycle test Questions from RMP and KTR
+- Lab manuals 
+- Experiment notes 
+- Observation 
+- And many more.
+
+## For Others
+
+See if there is any particular subject that can help you. 
+
+Hope you find something useful.
+
+## M Grace Hephzibah
