@@ -13,6 +13,14 @@ The pandemic has caused a lot of effects. Hence the information given here would
 - If your subject is not here, please check the other semester of the same year.
 - Like: 18MES103L could be in 1st semester or 2nd semester 
 
+## Contribution Guidelines
+
+- If there is a set of notes that can help other, please create an issue.
+- Be assigned for the task and then work on your assigned issue. 
+- One person can work on only one issue at a time.
+- Keep the notes and materials clear and well arranged. 
+- You can also create a sample.md file to talk about your materials.
+
 ### Materials 
 
 - Presentations 
