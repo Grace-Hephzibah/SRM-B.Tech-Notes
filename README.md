@@ -10,8 +10,6 @@ The pandemic has caused a lot of effects. Hence the information given here would
 
 - Check the semester number and the particular subject and you can download the entire source of files coresponding to the subject.
 - All files are given, do use them in the right way.
-- If your subject is not here, please check the other semester of the same year.
-- Like: 18MES103L could be in 1st semester or 2nd semester 
 
 ## Contribution Guidelines
 
