@@ -14,7 +14,7 @@
 
 ## <a href = "https://github.com/Grace-Hephzibah/18CYB101J" > 18CYB101J </a> - 5 Credit Paper
 
-## <a href = "https://github.com/Grace-Hephzibah/18CSS101J" > 18CSS101JL </a> - 5 Credit Paper
+## <a href = "https://github.com/Grace-Hephzibah/18CSS101J" > 18CSS101J </a> - 5 Credit Paper
 
 ## <a href = "https://github.com/Grace-Hephzibah/18MES101L" > 18MES103L </a> - 3 Credit Paper
 
